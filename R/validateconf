@@ -1,0 +1,18 @@
+## Copyright (C) 2023 Vincent Goulet
+##
+## Ce fichier fait partie du cours
+## IFT-4902/7902 Programmation avec R pour l'analyse de données
+##
+## Cette création est mise à disposition sous licence
+## Attribution-Partage dans les mêmes conditions 4.0 International de
+## Creative Commons. https://creativecommons.org/licenses/by-sa/4.0/
+
+__global
+  defaults
+    check_exists_laden: true
+    check_encoding: true
+
+1-Polycalc.txt
+
+2-expression.R
+  check_contents: true

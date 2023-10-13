@@ -1,0 +1,7 @@
+1. Poser P égal à un polynôme de degré n
+2. Poser i<- n+1
+3. Poser P(x)=0
+4. Poser Q(x)=x[i]+x(P(x))
+5. Poser P(x)=Q(x)
+6. Incrémenter i:i<-i-1, si i=>0 retourner l'étape 4
+7. Sinon retourner la valeur de Q(x)
