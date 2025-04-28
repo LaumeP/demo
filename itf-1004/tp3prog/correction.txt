@@ -1,0 +1,104 @@
+Numéro d'équipe : 38
+Lien vers le dépôt GitHub PRIVÉ de votre TP :
+Avez-vous invité les correcteurs comme collaborateurs à votre dépôt GitHub (Oui/Non) :
+
+Étudiant 1 :
+    - Nom complet : Guillaume Piché
+    - Numéro de dossier (NI) : 537 158 521
+    - Estimation du temps de réalisation :
+
+Étudiant 2 :
+    - Nom complet : Charles-Antoine Mongrain
+    - Numéro de dossier (NI) :
+    - Estimation du temps de réalisation :
+
+
+Fonctionnalités
+----------------
+
+/2 : document.Document.__init__
+     Commentaires :
+
+/3 : document.Document.emprunter
+     Commentaires :
+
+/3 : document.Document.retourner
+     Commentaires :
+
+/2 : document.Document.__str__
+     Commentaires :
+
+/3 : livre.Livre.__init__
+     Commentaires :
+
+/3 : revue.Revue.__init__
+     Commentaires :
+
+/2 : revue.Revue.__str__
+     Commentaires :
+
+/2 : utilisateur.Utilisateur.__init__
+     Commentaires :
+
+/4 : utilisateur.Utilisateur.emprunter_document
+     Commentaires :
+
+/4 : utilisateur.Utilisateur.retourner_document
+     Commentaires :
+
+/15 : Tests unitaires pour chacune des méthodes la classe utilisateur.Utilisateur
+     Commentaires :
+
+/2 : bibliotheque.Bibliotheque.__init__
+     Commentaires :
+
+/1 : bibliotheque.Bibliotheque.ajouter_document
+     Commentaires :
+
+/1 : bibliotheque.Bibliotheque.ajouter_utilisateur
+     Commentaires :
+
+/3 : bibliotheque.Bibliotheque.documents_disponibles
+     Commentaires :
+
+/3 : Bouton de réinitialisation dans bibliotheque_app.BibliothequeApp
+     Commentaires :
+
+/3 : bibliotheque_app.BibliothequeApp.reinitialiser
+     Commentaires :
+
+/7 : gestion_fichiers.charger_livres (2 points pour la documentation)
+     Commentaires :
+
+/7 : gestion_fichiers.charger_revues (2 points pour la documentation)
+     Commentaires :
+
+/7 : gestion_fichiers.charger_utilisateurs (2 points pour la documentation)
+     Commentaires :
+
+/1.5 : donnees/revues.txt
+     Commentaires :
+
+/1.5 : donnees/utilisateurs.txt
+     Commentaires :
+
+/5 : Qualité du code (noms des variables, lisibilité, etc)
+     Commentaires :
+
+
+-------
+
+/5: Lien du dépôt GitHub PRIVÉ présent et démontrant l'utilisation de Git
+    Commentaires:
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+Total : /90
